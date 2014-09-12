@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageDownloader.m
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDImageCache.h
+END
+SDWebImageManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageManagerDelegate.h
+END
+UrlImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/UrlImageView.h
+END
+UrlImageButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/UrlImageButton.h
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageManager.h
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageDecoder.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDImageCache.m
+END
+NSURLAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/NSURLAdditions.h
+END
+UrlImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/UrlImageView.m
+END
+UrlImageButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/UrlImageButton.m
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageManager.m
+END
+NSURLAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/NSURLAdditions.m
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageCompat.h
+END
+SDWebImageDownloaderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageDownloaderDelegate.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDWebImageDownloader.h
+END
+SDImageCacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/SDWebBase/SDImageCacheDelegate.h
+END

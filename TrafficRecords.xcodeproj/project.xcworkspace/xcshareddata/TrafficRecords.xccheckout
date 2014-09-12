@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A32F87A-6818-46D4-BD5E-74ACEFC69D7F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TrafficRecords</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EDFD14DB-7D85-415F-AD49-0C10D2EA6C97</key>
+		<string>https://10.168.0.77:8443/svn/autosvn/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EDFD14DB-7D85-415F-AD49-0C10D2EA6C97</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>EDFD14DB-7D85-415F-AD49-0C10D2EA6C97</key>
+		<string>https://10.168.0.77:8443/svn/autosvn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://10.168.0.77:8443/svn/autosvn/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EDFD14DB-7D85-415F-AD49-0C10D2EA6C97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>WZPrj/Code/IosCode/Branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>WZPrj/Code/IosCode/Tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>WZPrj/Code/IosCode/Trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EDFD14DB-7D85-415F-AD49-0C10D2EA6C97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TrafficRecords2.2.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

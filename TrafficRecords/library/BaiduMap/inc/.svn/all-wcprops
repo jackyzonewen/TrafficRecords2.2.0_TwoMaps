@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc
+END
+BMKShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKShape.h
+END
+BMKCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKCircle.h
+END
+BMKOverlayGLBasicView.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKOverlayGLBasicView.h
+END
+BMKMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKMultiPoint.h
+END
+BMKShareUrlSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKShareUrlSearchOption.h
+END
+BMKPoiSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPoiSearchOption.h
+END
+BMKCloudSearchInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKCloudSearchInfo.h
+END
+BMKMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKMapView.h
+END
+BMKArclineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKArclineView.h
+END
+BMKActionPaopaoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKActionPaopaoView.h
+END
+BMKLocationViewDisplayParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKLocationViewDisplayParam.h
+END
+BMKCloudPOIList.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKCloudPOIList.h
+END
+BMKShareURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKShareURLSearch.h
+END
+BMKOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKOverlayView.h
+END
+BMKArcline.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKArcline.h
+END
+BMKPoiSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPoiSearch.h
+END
+BMKCloudSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKCloudSearchComponent.h
+END
+BMKBusLineSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKBusLineSearchOption.h
+END
+BMKOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKOverlay.h
+END
+BMKPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPolygonView.h
+END
+BMKOfflineMapType.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKOfflineMapType.h
+END
+BMKUtilsComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKUtilsComponent.h
+END
+BMKPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPointAnnotation.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKVersion.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKRouteSearchType.h
+END
+BMKPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPolylineView.h
+END
+BMKBusLineSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKBusLineSearch.h
+END
+BMKPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPolygon.h
+END
+BMKSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKSearchComponent.h
+END
+BMKOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKOverlayPathView.h
+END
+BMKPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPolyline.h
+END
+BMKGroundOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGroundOverlayView.h
+END
+BMKCloudSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKCloudSearch.h
+END
+BMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMapKit.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKBaseComponent.h
+END
+BMKNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKNavigation.h
+END
+BMKMapComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKMapComponent.h
+END
+BMKGroundOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGroundOverlay.h
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKTypes.h
+END
+BMKAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKAnnotationView.h
+END
+BMKSuggestionSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKSuggestionSearchOption.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKUserLocation.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGeocodeType.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKMapManager.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGeneralDelegate.h
+END
+BMKAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKAnnotation.h
+END
+BMKPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPinAnnotationView.h
+END
+BMKSuggestionSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKSuggestionSearch.h
+END
+BMKRouteSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKRouteSearchOption.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKPoiSearchType.h
+END
+BMKOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKOfflineMap.h
+END
+BMKMapStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKMapStatus.h
+END
+BMKGeocodeSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGeocodeSearchOption.h
+END
+BMKRouteSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKRouteSearch.h
+END
+BMKLocationService.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKLocationService.h
+END
+BMKLocationComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKLocationComponent.h
+END
+BMKGeocodeSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGeocodeSearch.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKGeometry.h
+END
+BMKCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/BaiduMap/inc/BMKCircleView.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers
+END
+WeiyunAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/WeiyunAPI.h
+END
+QQApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/QQApi.h
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+WeiBoAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/WeiBoAPI.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/autosvn/!svn/ver/54858/WZPrj/Code/IosCode/Tags/TrafficRecords2.2.0/TrafficRecords/TrafficRecords/library/UMSocial_Sdk_3.3.8/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END
