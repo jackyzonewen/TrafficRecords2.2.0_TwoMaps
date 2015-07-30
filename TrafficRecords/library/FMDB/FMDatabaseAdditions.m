@@ -118,6 +118,7 @@ return ret;
 }
 
 #if SQLITE_VERSION_NUMBER >= 3007017
+
 - (uint32_t)applicationID {
     
     uint32_t r = 0;
@@ -133,6 +134,15 @@ return ret;
     return r;
 }
 
+- (void)setApplicationID:(uint32_t)appID {
+    NSString *query = [NSString stringWithFormat:@"pragma application_id=%d", appID];
+    FMResultSet *rs = [self executeQuery:query];
+    [rs next];
+    [rs close];
+}
+
+
+#if TARGET_OS_MAC && !TARGET_OS_IPHONE
 - (NSString*)applicationIDString {
     NSString *s = NSFileTypeForHFSTypeCode([self applicationID]);
     
@@ -145,13 +155,6 @@ return ret;
     
 }
 
-- (void)setApplicationID:(uint32_t)appID {
-    NSString *query = [NSString stringWithFormat:@"PRAGMA application_id=%d", appID];
-    FMResultSet *rs = [self executeQuery:query];
-    [rs next];
-    [rs close];
-}
-
 - (void)setApplicationIDString:(NSString*)s {
     
     if ([s length] != 4) {
@@ -160,6 +163,9 @@ return ret;
     
     [self setApplicationID:NSHFSTypeCodeFromFileType([NSString stringWithFormat:@"'%@'", s])];
 }
+
+
+#endif
 
 #endif
 
